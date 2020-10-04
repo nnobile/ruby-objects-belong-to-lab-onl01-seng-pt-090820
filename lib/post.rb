@@ -7,5 +7,5 @@ class Post
   end
 end
 
-post = Post.new("Hello World")
-author_new = Author.new("Uncle Bob")
+#post = Post.new("Hello World")
+#author_new = Author.new("Uncle Bob")
