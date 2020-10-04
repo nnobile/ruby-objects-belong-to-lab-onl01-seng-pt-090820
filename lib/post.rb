@@ -7,4 +7,5 @@ class Post
   end
 
 end
-title = Post.new("Hello World")
+
+post = Post.new("Hello World")
