@@ -1,5 +1,11 @@
 class Author
   attr_accessor :name
+
+  def initialize(name)
+    @name = name
+  end
+
 end
 
-hello_world = Post.new("Hello World")
+author = Author.new("Uncle Bob")
+puts author.name
