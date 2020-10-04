@@ -7,3 +7,4 @@ class Post
   end
 
 end
+title = Post.new("Hello World")
