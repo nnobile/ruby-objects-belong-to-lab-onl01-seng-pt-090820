@@ -6,3 +6,5 @@ class Song
     @artist = artist
   end
 end
+
+#MyModule::MyClass::MyObject.new()
