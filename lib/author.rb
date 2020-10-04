@@ -7,5 +7,5 @@ class Author
 
 end
 
-author = Author.new("Uncle Bob")
-puts author.name
+#author = Author.new("Uncle Bob")
+#puts author.name
